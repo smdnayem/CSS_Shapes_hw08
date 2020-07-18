@@ -1,0 +1,210 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    font-family: calibri;
+    min-width: 300px;
+    max-width: 1250px;
+    margin: auto;
+}
+
+.main_head {
+    background-color: #14C2E7;
+    color: white;
+    width: 100%;
+    height: 110px;
+    font-size: 90px;
+    text-align: center;
+    line-height: 100px;
+    text-transform: uppercase;
+}
+
+.main_head p {
+    text-shadow: 5px 5px black;
+}
+
+.main_head span {
+    text-shadow: 5px 5px black;
+    color: red;
+}
+
+.custom_body {
+    background-color: none;
+    width: 100%;
+    height: 160px;
+}
+
+.scale {
+    background-color: none;
+    width: 70%;
+    margin: auto;
+    height: 100%;
+
+}
+
+.ract {
+    border: 5px solid #F6A41B;
+    border-radius: 7px;
+    background-color: #81007F;
+    width: 140px;
+    height: 110px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+}
+
+.rounded_ract {
+    border: 5px solid #F6A41B;
+    background-color: #81007F;
+    width: 140px;
+    height: 110px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 50px;
+}
+
+.oval {
+    border: 5px solid #F6A41B;
+    background-color: #81007F;
+    width: 110px;
+    height: 110px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 50%;
+}
+
+.t_corner_rounded {
+    border: 5px solid #F6A41B;
+    background-color: #81007F;
+    width: 140px;
+    height: 110px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 20px 0;
+
+}
+
+.left_rds {
+    border: 5px solid #F6A41B;
+    background-color: #81007F;
+    width: 140px;
+    height: 120px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 100% 0 0;
+}
+
+.r_rect {
+    border: 5px solid #F6A41B;
+    background-color: #81007F;
+    width: 140px;
+    height: 120px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 20%;
+}
+
+.rugby {
+    border: 5px solid #F6A41B;
+    background-color: #81007F;
+    width: 120px;
+    height: 120px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 200px 0;
+}
+
+.top_rad {
+    border: 5px solid #F6A41B;
+    background-color: #81007F;
+    width: 140px;
+    height: 120px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 50% 50% 0 0;
+}
+
+.devider {
+    clear: both;
+    height: 200px;
+    background-color: none;
+}
+
+.scl_in {
+    width: 50%;
+    margin: auto;
+}
+
+.r_ract_shad_in {
+    border: 5px solid blue;
+    background-color: #F6A41B;
+    width: 150px;
+    height: 150px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 30px;
+    box-shadow: 12px 12px 1px #888888 inset;
+}
+
+.scl_out {
+    width: 50%;
+    margin: auto;
+
+}
+
+.r_ract_shad_out {
+    border: 5px solid blue;
+    background-color: #F6A41B;
+    width: 150px;
+    height: 150px;
+    margin: 20px 20px 20px 20px;
+    float: left;
+    border-radius: 30px;
+    box-shadow: 12px 12px 1px #888888;
+
+}
+
+.devider_f {
+    clear: both;
+
+}
+
+.scale_f {
+
+    width: 70%;
+    margin: auto;
+    height: 100%;
+
+}
+
+.flag_box {
+    width: 440px;
+    height: 275px;
+    background-color: #808080;
+    padding: 40px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.flag_rect {
+    background-color: #008001;
+    width: 350px;
+    height: 200px;
+    padding: 26px 100px;
+    box-sizing: border-box;
+    box-shadow: 5px 2px 2px 1px black;
+
+}
+
+.flag_o {
+
+    background-color: #FF0000;
+    width: 130px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 50%;
+    box-shadow: 5px 2px 2px 1px black;
+}
